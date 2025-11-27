@@ -1,16 +1,20 @@
-## Hi there 👋
+# Q-Ring™ — Emotion-AI Smart Ring (V1)
 
-<!--
-**qringtechug/qringtechug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder:** Joel Buyungo  
+**Project:** Q-Ring V1 — A wearable ring that detects, interprets, and guides emotional wellbeing using biosensors and on-device AI.
 
-Here are some ideas to get you started:
+## What’s in this repository
+- docs/            — whitepaper, pitch materials, roadmap
+- design/          — 3D renders and mockups
+- firmware/        — firmware source code
+- ai/              — Jupyter notebooks, model training scripts
+- web/             — landing page source
+- assets/          — images and renders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick start
+1. Read `docs/Executive_Summary.pdf` and `docs/roadmap.md`
+2. Browse `design/` for concept renders
+3. See `ai/` for model experiments
+
+## Contact
+Joel Buyungo — qringtechug@gmail.com
