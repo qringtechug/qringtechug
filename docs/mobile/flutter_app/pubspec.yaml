@@ -1,0 +1,13 @@
+name: qring_app
+description: Q-Ring V1 mobile app (prototype)
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue: ^0.8.0   # BLE plugin (example)
+  http: ^0.14.0
+  provider: ^6.0.0
